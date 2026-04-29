@@ -50,13 +50,12 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NQB37&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="github stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NQB37&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="top languages"/>
 </p>
-
 ---
 
 ⭐ _Always open to internship opportunities_
